@@ -1,4 +1,4 @@
-Hi 👋 My name is Yashwanth Kamireddi
+Hi 👋I am Yashwanth Kamireddi
 ====================================
 
 CS Student
@@ -6,7 +6,7 @@ CS Student
 
 I'm a passionate and dedicated computer science student on a mission to turn innovative ideas into reality through code. Currently pursuing my B.Tech in Computer Science at Gitam University, I have a strong foundation in software development, algorithms, and problem-solving. I am eagerly seeking opportunities to apply my skills and gain real-world experience through a challenging internship.
 
-* 🌍  I'm based in India , Andhra Pradesh
+* 🌍  I'm based in India
 * ✉️  You can contact me at [yashwanthkamireddi@gmail.com](mailto:yashwanthkamireddi@gmail.com)
 * 🧠  I'm learning Python,TensorFlow, PyTorch, and Scikit-learn
 
