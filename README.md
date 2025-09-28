@@ -3,23 +3,19 @@
 <p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333333; line-height: 1.5;">Building seamless web experiences and intelligent systems.<br>Currently seeking impactful Full-Stack or AI/ML Internship roles.</p>
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <a href="mailto:yashwanthkamireddi@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:yashwanthkamireddi@gmail.com" style="margin: 0 5px; text-decoration: none; border: 0;">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="border:0;"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" style="margin: 0 5px; text-decoration: none; border: 0;">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border:0;"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/yashwanthkamireddi" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/yashwanthkamireddi" target="_blank" style="margin: 0 5px; text-decoration: none; border: 0;">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="border:0;"/>
   </a>
-  &nbsp;
-  <a href="https://yashwanthkamireddi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://yashwanthkamireddi.vercel.app/" target="_blank" style="margin: 0 5px; text-decoration: none; border: 0;">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" style="border:0;"/>
   </a>
 </p>
-
 ---
 
 <table width="100%" style="border-collapse: collapse; border: none; font-family: 'Segoe UI', Arial, sans-serif;">
@@ -71,13 +67,6 @@
 ---
 
 <div align="center" style="background-color: white; padding: 30px 0; margin-top: 30px; font-family: 'Segoe UI', Arial, sans-serif;">
-  <h2 style="color: black; margin-top: 0; margin-bottom: 20px; font-weight: 600;">🌐 CONNECT WITH ME 🌐</h2>
-  <p style="margin-bottom: 10px;">
-    <a href="mailto:yashwanthkamireddi@gmail.com" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">Email</a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">LinkedIn</a>
-    <a href="https://yashwanthkamireddi.vercel.app/" target="_blank" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">Portfolio</a>
-    <a href="https://github.com/yashwanthkamireddi" target="_blank" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">GitHub</a>
-  </p>
-  <p style="color: #555555; margin-top: 25px; margin-bottom: 0;">📍 Visakhapatnam, Andhra Pradesh, India</p>
-  <p style="color: #555555; margin-top: 10px; margin-bottom: 0; font-style: italic;">This README is intentionally monochrome — sleek, minimal, and distraction-free.</p>
+
+  <p style="color: #555555; margin-top: 25px; margin-bottom: 0;">📍 Vizag, India</p>
 </div>
