@@ -1,0 +1,44 @@
+To make that show:
+- Save the SVG file (I include an exact SVG below) as `assets/top-langs-bw.svg` in your repo root, commit it, and the image will display in strict monochrome.  
+- If you prefer a dynamic top-langs card (auto-updating), swap that image with the `github-readme-stats` top-langs URL — note that dynamic top-langs uses colored bars and cannot be forced to B/W by the hosted service.
+
+---
+
+### Monochrome Top-Languages SVG (save this to `assets/top-langs-bw.svg`)
+> Copy the block below into a new file `assets/top-langs-bw.svg` in your repo (exact as-is). After you commit it, the `Top Languages (static B/W)` image in the README will render correctly.
+
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+<rect width="100%" height="100%" fill="#000000"/>
+<text x="36" y="44" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#FFFFFF" font-weight="600">Top Languages</text>
+
+<!-- Row 1 -->
+<text x="36" y="86" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#CCCCCC">Python</text>
+<rect x="120" y="72" width="460" height="18" rx="9" fill="#111111"/>
+<rect x="120" y="72" width="302" height="18" rx="9" fill="#FFFFFF" opacity="0.95"/>
+<text x="595" y="86" font-family="Segoe UI, Roboto, Arial" font-size="13" fill="#FFFFFF">42%</text>
+
+<!-- Row 2 -->
+<text x="36" y="126" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#CCCCCC">JavaScript</text>
+<rect x="120" y="112" width="460" height="18" rx="9" fill="#111111"/>
+<rect x="120" y="112" width="180" height="18" rx="9" fill="#FFFFFF" opacity="0.95"/>
+<text x="595" y="126" font-family="Segoe UI, Roboto, Arial" font-size="13" fill="#FFFFFF">25%</text>
+
+<!-- Row 3 -->
+<text x="36" y="166" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#CCCCCC">C++</text>
+<rect x="120" y="152" width="460" height="18" rx="9" fill="#111111"/>
+<rect x="120" y="152" width="75" height="18" rx="9" fill="#FFFFFF" opacity="0.95"/>
+<text x="595" y="166" font-family="Segoe UI, Roboto, Arial" font-size="13" fill="#FFFFFF">10%</text>
+
+<!-- Row 4 -->
+<text x="36" y="206" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#CCCCCC">HTML</text>
+<rect x="120" y="192" width="460" height="18" rx="9" fill="#111111"/>
+<rect x="120" y="192" width="58" height="18" rx="9" fill="#FFFFFF" opacity="0.95"/>
+<text x="595" y="206" font-family="Segoe UI, Roboto, Arial" font-size="13" fill="#FFFFFF">8%</text>
+
+<!-- Row 5 -->
+<text x="36" y="246" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#CCCCCC">Other</text>
+<rect x="120" y="232" width="460" height="18" rx="9" fill="#111111"/>
+<rect x="120" y="232" width="125" height="18" rx="9" fill="#FFFFFF" opacity="0.95"/>
+<text x="595" y="246" font-family="Segoe UI, Roboto, Arial" font-size="13" fill="#FFFFFF">15%</text>
+</svg>
