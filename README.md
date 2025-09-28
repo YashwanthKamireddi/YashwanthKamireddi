@@ -1,29 +1,83 @@
-Hi 👋I am Yashwanth Kamireddi
-====================================
+<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: black; margin-bottom: 5px; font-weight: 700;">YASHWANTH KAMIREDDI</h1>
+<h3 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #1A1A1A; margin-top: 0; margin-bottom: 20px; font-weight: 500;">🚀 Full-Stack Developer | AI & Machine Learning Engineer 🧠</h3>
+<p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333333; line-height: 1.5;">Building seamless web experiences and intelligent systems.<br>Currently seeking impactful Full-Stack or AI/ML Internship roles.</p>
 
-CS Student
-----------
-
-I'm a passionate and dedicated computer science student on a mission to turn innovative ideas into reality through code. Currently pursuing my B.Tech in Computer Science at Gitam University, I have a strong foundation in software development, algorithms, and problem-solving. I am eagerly seeking opportunities to apply my skills and gain real-world experience through a challenging internship.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [yashwanthkamireddi@gmail.com](mailto:yashwanthkamireddi@gmail.com)
-* 🧠  I'm learning Python,TensorFlow, PyTorch, and Scikit-learn
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="mailto:yashwanthkamireddi@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/yashwanthkamireddi" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://yashwanthkamireddi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
 
+---
 
-### Socials
+<table width="100%" style="border-collapse: collapse; border: none; font-family: 'Segoe UI', Arial, sans-serif;">
+  <tr style="background-color: white;">
+    <!-- LEFT COLUMN: About & Projects -->
+    <td width="55%" valign="top" style="padding: 30px; border-right: 1px solid #E0E0E0; background-color: white;">
+      <h3 style="color: black; margin-top: 0; margin-bottom: 15px; font-weight: 600;">📌 About Me</h3>
+      <p style="color: #333333; margin-top: 0; margin-bottom: 25px; line-height: 1.6;">
+        💻 Computer Science student at <strong>Gitam University</strong>, specializing in <strong>Full-Stack Development</strong> and <strong>AI/Machine Learning</strong>. I build robust applications and intelligent systems by bridging elegant front-end design, reliable back-end architecture, and data-driven ML intelligence. I am product-minded, test-first, and metrics-driven in my approach.
+      </p>
+            <!-- STATS + LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwanthkamireddi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&card_width=400&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000&border_radius=10" alt="GitHub Stats" height="160"/>
+  <img src="https://raw.githubusercontent.com/YashwanthKamireddi/YashwanthKamireddi/refs/heads/main/assets/top-langs-bw.svg" alt="Top Languages" height="160"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/yashwanthkamireddi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/YashwanthKamireddi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<!-- STREAK -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanthkamireddi&theme=graywhite&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" height="160"/>
+  </a>
+</p>
+  </tr>
+</table>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+<div align="center" style="background-color: black; padding: 30px 0; margin-top: 30px; font-family: 'Segoe UI', Arial, sans-serif;">
+  <h2 style="color: white; margin-top: 0; margin-bottom: 20px; font-weight: 600;">⚙️ MY ADVANCED TOOLKIT ⚙️</h2>
+  <p style="color: white; margin-bottom: 25px; line-height: 1.5;">Comprehensive technical proficiencies across Full-Stack, AI/ML, Databases, and DevOps:</p>
 
-<a href="http://www.github.com/yashwanthkamireddi"><img src="https://github-readme-stats.vercel.app/api?username=yashwanthkamireddi&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="yashwanthkamireddi's GitHub stats" /></a>
+  <p align="center" style="margin-bottom: 30px;">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
+    <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" />
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" />
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  </p>
+</div>
+
+
+---
+
+<div align="center" style="background-color: white; padding: 30px 0; margin-top: 30px; font-family: 'Segoe UI', Arial, sans-serif;">
+  <h2 style="color: black; margin-top: 0; margin-bottom: 20px; font-weight: 600;">🌐 CONNECT WITH ME 🌐</h2>
+  <p style="margin-bottom: 10px;">
+    <a href="mailto:yashwanthkamireddi@gmail.com" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">Email</a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">LinkedIn</a>
+    <a href="https://yashwanthkamireddi.vercel.app/" target="_blank" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">Portfolio</a>
+    <a href="https://github.com/yashwanthkamireddi" target="_blank" style="color: black; text-decoration: none; font-weight: bold; padding: 8px 15px; border: 1px solid black; border-radius: 5px; margin: 0 5px;">GitHub</a>
+  </p>
+  <p style="color: #555555; margin-top: 25px; margin-bottom: 0;">📍 Visakhapatnam, Andhra Pradesh, India</p>
+  <p style="color: #555555; margin-top: 10px; margin-bottom: 0; font-style: italic;">This README is intentionally monochrome — sleek, minimal, and distraction-free.</p>
+</div>
