@@ -2,11 +2,9 @@
 <h3 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #1A1A1A; margin-top: 0; margin-bottom: 20px; font-weight: 500;">🚀 Full-Stack Developer | AI & Machine Learning Engineer 🧠</h3>
 <p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333333; line-height: 1.5;">Building seamless web experiences and intelligent systems.<br>Currently seeking impactful Full-Stack or AI/ML Internship roles.</p>
 
-<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  [![Email Badge](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthkamireddi@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-  [![GitHub Badge](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthkamireddi)
-  [![Portfolio Badge](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashwanthkamireddi.vercel.app/)
+<p align="center" style="margin-top: 30px; margin-bottom: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </p>
 ---
 
