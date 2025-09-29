@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: black; margin-bottom: 5px; font-weight: 700;">YASHWANTH KAMIREDDI</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: black; margin-bottom: 5px; font-weight: 700;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Yashwanth+Kamireddi)](https://git.io/typing-svg)</h1>
 <h3 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #1A1A1A; margin-top: 0; margin-bottom: 20px; font-weight: 500;">🚀 Full-Stack Developer | AI & Machine Learning Engineer 🧠</h3>
 <p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333333; line-height: 1.5;">Building seamless web experiences and intelligent systems.<br>Currently seeking impactful Full-Stack or AI/ML Internship roles.</p>
 
