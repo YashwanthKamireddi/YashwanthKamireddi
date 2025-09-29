@@ -1,13 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Yashwanth+Kamireddi" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Yashwanth+Kamireddi+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG">
   </a>
 </div>
 
-<h3 align="center">🚀 Full-Stack Developer | AI & Machine Learning Engineer 🧠</h3>
+<h3 align="center">🚀 Building seamless web experiences and intelligent systems. 🧠</h3>
 <p align="center">
-  Building seamless web experiences and intelligent systems.
-  <br>
   Currently seeking impactful Full-Stack or AI/ML Internship roles.
 </p>
 
@@ -113,3 +111,4 @@ A comprehensive list of my technical skills, covering everything from frontend t
 <p align="center">
   📍 Vizag, India
 </p>
+
