@@ -7,7 +7,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
   [![GitHub Badge](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthkamireddi)
   [![Portfolio Badge](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashwanthkamireddi.vercel.app/)
-</p
+</p>
 ---
 
 <table width="100%" style="border-collapse: collapse; border: none; font-family: 'Segoe UI', Arial, sans-serif;">
@@ -26,9 +26,7 @@
 
 <!-- STREAK -->
 <p align="center">
-  <a href="https://git.io/streak-stats" style="text-decoration: none !important; border:0; outline:none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanthkamireddi&theme=graywhite&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" height="160" style="border:0; text-decoration:none; display:inline-block; vertical-align:middle;"/>
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashwanthkamireddi&theme=graywhite&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 </p>
   </tr>
 </table>
