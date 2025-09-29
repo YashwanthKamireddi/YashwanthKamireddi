@@ -34,9 +34,28 @@
 
 ---
 
-### 🛠️ My Toolkit
+### 🚀 My Projects
 
-Here are some of the technologies I work with:
+*Here are a few projects I've worked on. You can find more on my GitHub profile.*
+
+| Project                                        | Description                                                                                                   | Technologies Used                                |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **[Project Name 1](https://github.com/link)** | A one-sentence summary of the project's purpose and key features. What problem does it solve?                 | `React` `Node.js` `MongoDB` `AWS`                |
+| **[Project Name 2](https://github.com/link)** | A one-sentence summary of the project's purpose and key features. What problem does it solve?                 | `Python` `TensorFlow` `Flask` `Docker`           |
+| **[Project Name 3](https://github.com/link)** | A one-sentence summary of the project's purpose and key features. What problem does it solve?                 | `Next.js` `Express` `PostgreSQL` `Vercel`        |
+
+---
+
+### 💼 Professional Experience
+
+**Software Developer Intern** @ [Company Name](https://company-website.com) | *May 2024 - Aug 2024*
+- Developed and implemented a key feature for [product/project], resulting in a [quantifiable achievement, e.g., 15% increase in user engagement].
+- Collaborated with a team of X developers to debug and optimize the application's backend services.
+- Utilized technologies such as [Tech 1], [Tech 2], and [Tech 3].
+
+---
+
+### 🛠️ My Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -55,16 +74,17 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashwanthkamireddi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&card_width=400&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000&border_radius=10" alt="GitHub Stats" height="160"/>
   <img src="https://raw.githubusercontent.com/YashwanthKamireddi/YashwanthKamireddi/refs/heads/main/assets/top-langs-bw.svg" alt="Top Languages" height="160"/>
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanthkamireddi&theme=graywhite&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" height="160"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanthkamireddi&theme=graywhite&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashwanthkamireddi&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
