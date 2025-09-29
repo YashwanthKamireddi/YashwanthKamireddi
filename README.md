@@ -3,19 +3,11 @@
 <p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #333333; line-height: 1.5;">Building seamless web experiences and intelligent systems.<br>Currently seeking impactful Full-Stack or AI/ML Internship roles.</p>
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <a href="mailto:yashwanthkamireddi@gmail.com" style="margin: 0 5px; text-decoration: none !important; border: 0; outline: none;">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="border:0; text-decoration:none; display:inline-block; vertical-align:middle;" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" style="margin: 0 5px; text-decoration: none !important; border: 0; outline: none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border:0; text-decoration:none; display:inline-block; vertical-align:middle;" />
-  </a>
-  <a href="https://github.com/yashwanthkamireddi" target="_blank" style="margin: 0 5px; text-decoration: none !important; border: 0; outline: none;">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="border:0; text-decoration:none; display:inline-block; vertical-align:middle;" />
-  </a>
-  <a href="https://yashwanthkamireddi.vercel.app/" target="_blank" style="margin: 0 5px; text-decoration: none !important; border: 0; outline: none;">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" style="border:0; text-decoration:none; display:inline-block; vertical-align:middle;" />
-  </a>
-</p>
+  [![Email Badge](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthkamireddi@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+  [![GitHub Badge](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthkamireddi)
+  [![Portfolio Badge](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashwanthkamireddi.vercel.app/)
+</p
 ---
 
 <table width="100%" style="border-collapse: collapse; border: none; font-family: 'Segoe UI', Arial, sans-serif;">
