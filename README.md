@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h3 align="center">🚀 Building seamless web experiences and intelligent systems. 🧠</h3>
+<h3 align="center"> Building seamless web experiences and intelligent systems. </h3>
 <p align="center">
   Currently seeking impactful Full-Stack or AI/ML Internship roles.
 </p>
@@ -31,14 +31,11 @@
 ---
 
 ### 👋 About Me
-<p align="center">
-💻 I'm a Computer Science student at **Gitam University**, specializing in **Full-Stack Development** and **AI/Machine Learning**. I build robust applications and intelligent systems by bridging elegant front-end design, reliable back-end architecture, and data-driven ML intelligence. I am product-minded, test-first, and metrics-driven in my approach.
+💻 I'm a Computer Science student  specializing in **Full-Stack Development** and **AI/Machine Learning**. I build robust applications and intelligent systems by bridging elegant front-end design, reliable back-end architecture, and data-driven ML intelligence. I am product-minded, test-first, and metrics-driven in my approach.
 
 ---
 
 ### 🛠️ My Tech Stack
-
-                                                                A comprehensive list of my technical skills, covering everything from frontend to AI.
 
 <div align="center">
 
@@ -92,7 +89,7 @@
 
 ---
 
-### 📊 My GitHub Stats & Trophies
+###  My GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashwanthkamireddi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&card_width=400&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000&border_radius=10" alt="GitHub Stats" height="160"/>
