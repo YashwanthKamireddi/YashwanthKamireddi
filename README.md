@@ -38,7 +38,7 @@
 
 ### 🛠️ My Tech Stack
 
-A comprehensive list of my technical skills, covering everything from frontend to AI.
+                                                                A comprehensive list of my technical skills, covering everything from frontend to AI.
 
 <div align="center">
 
@@ -90,8 +90,6 @@ A comprehensive list of my technical skills, covering everything from frontend t
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 </div>
 
@@ -101,13 +99,8 @@ A comprehensive list of my technical skills, covering everything from frontend t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashwanthkamireddi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&card_width=400&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000&border_radius=10" alt="GitHub Stats" height="160"/>
-  <img src="https://raw.githubusercontent.com/YashwanthKamireddi/YashwanthKamireddi/refs/heads/main/assets/top-langs-bw.svg" alt="Top Languages" height="160"/>
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanthkamireddi&theme=graywhite&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashwanthkamireddi&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
